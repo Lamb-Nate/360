@@ -20,5 +20,5 @@ public class threads {
   
         System.out.println("all Threads Compleate");  
     }
-    
+  test  
 }
