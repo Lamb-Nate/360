@@ -8,7 +8,8 @@ public class mapCollection {
 	       m.put("charlie", new Integer(3)); 
 	       m.put("delta", new Integer(4)); 
 	  
-	       // output     
+	       // output
+	       
 	       Set< Map.Entry< String,Integer> > st = m.entrySet();    
 	  
 	       for (Map.Entry< String,Integer> me:st) 
